@@ -1,6 +1,28 @@
-### Hi there 👋
+# André Buttros Rodrigues
 
-- 🔭 I’m currently working on data analysis in an e-commerce company.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me: andrebrodrigues@hotmail.com
-- 😄 Pronouns: He/Him
+Data Analyst with hands-on experience applying data-driven decision-making in real business operations.
+
+## 🔍 About Me
+I am an Engineer with practical experience in data analysis applied to business operations, including agribusiness, tourism, and international e-commerce.
+
+I use data to analyze costs, evaluate profitability, and optimize processes, supporting strategic decisions with real impact.
+
+## 🛠️ Skills & Tools
+- SQL (MySQL)
+- Power BI
+- Excel (Advanced)
+- Python (Pandas - basic)
+
+## 📊 Projects
+
+### 📁 Operational Cost Analysis
+Analysis of cost structures and economic viability based on real-world operations.
+
+### 📁 Sales Dashboard (Power BI)
+Data visualization and KPI development for business performance tracking.
+
+### 📁 SQL Data Analysis
+Exploratory data analysis using SQL queries to extract insights.
+
+## 🎯 Career Goal
+To work as a Data Analyst and grow into a Data Scientist, building data-driven solutions that generate real business value.
