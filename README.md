@@ -8,7 +8,7 @@ I am an Engineer with practical experience in data analysis applied to business 
 I use data to analyze costs, evaluate profitability, and optimize processes, supporting strategic decisions with real impact.
 
 ## 🛠️ Skills & Tools
-- SQL (MySQL)
+- SQL (SQL SMS)
 - Power BI
 - Excel (Advanced)
 - Python (Pandas - basic)
